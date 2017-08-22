@@ -5,6 +5,10 @@ html {
   font-size: 14px;
 }
 
+.flatiron {
+  background-image: url("./resources/images/the-flatiron-building.png");
+}
+
 .whitetext {
   color: white;
 }
