@@ -5,11 +5,11 @@ html {
   font-size: 14px;
 }
 
-.flatiron {
-  background-image: url("./resources/images/the-flatiron-building.png");
+#flatiron {
+  background-image: url("../images/the-flatiron-building.png");
 }
 
-.whitetext {
+#whitetext {
   color: white;
 }
 
@@ -18,7 +18,7 @@ h1 {
   font-weight: bold;
 }
 
-.links {
+#links {
   font-size: 18px;
 }
 
@@ -32,10 +32,15 @@ h3 {
   font-weight: bold;
 }
 
+#ny {
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+
 footer {
   background-color: dimgray;
 }
 
-.copyright {
+#copyright {
   font-size: 11px;
 }
